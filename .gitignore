@@ -1,1 +1,4 @@
 Medical_Chatbot.egg-info/
+
+# Ignore the LLaMA model file
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
